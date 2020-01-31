@@ -1,5 +1,5 @@
 ## Big Wish Analytica
-![Random dude running](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datanami.com%2F2019%2F03%2F27%2Fwhen-citizen-data-science-meets-basketball-analytics%2F&psig=AOvVaw10m8fd5bG7YoHR9MvE0NVh&ust=1580562520658000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjb6rP0recCFQAAAAAdAAAAABAN)
+![Random dude running]https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/basketball_analytics_1-300x176.png)
 
 Hello and welcome to my blog. I enjoy applying statistical thinking to problems in the sporting world and will occasionally put pen to paper and write them down. I'll be using this blog to document such  endeavours and to link to useful / interesting analyses online. 
 
